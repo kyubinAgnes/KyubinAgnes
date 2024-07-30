@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Highchart.js !
 - 💌 How to reach me: kyubin.it@gmail.com
 - 📄 Read about me from blog (in Korean): https://mnemoni-k.blogspot.com/
-- 💁🏻‍♀️ Fun fact: I have several names, Kyubin (Official name in passport) || Kay (nickname) || Agnes (Christian given name), Choose whatever you fancy!
+- 💁🏻‍♀️ Fun fact: I have several names, Kyubin (Official name in passport) || Kei (nickname) || Pia (Christian given name), Choose whatever you fancy!
 -->
 
 - 👩🏻‍💻 I'm Frontend engineer
